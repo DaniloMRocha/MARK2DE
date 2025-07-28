@@ -85,7 +85,7 @@ MARK2DE is a user-friendly graphical tool designed to integrate multiple steps o
 
 ## 📜 Citation
 
-   > Rocha, D. (2025). *MARK2DE: Merging and Annotation of RNA for Quantification and Differential Expression Analysis* (v1.0) \[Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.xxxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxxx)
+   > Rocha, D. (2025). *MARK2DE: Merging and Annotation of RNA for Quantification and Differential Expression Analysis* (v1.0) \[Computer software]. Zenodo. https://doi.org/10.5281/zenodo.16541355
 
 ---
 
